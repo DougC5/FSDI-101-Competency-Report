@@ -65,7 +65,7 @@ ul, li:not(:last-of-type) {
 }
 
 
- a:not(header){
+ main a{
     padding: 10px;
     font-family: "Noto Sans", sans-serif;
     margin: 20px 5px;
@@ -78,7 +78,7 @@ ul, li:not(:last-of-type) {
     text-decoration: none
 }
 
-a:hover:not(header){
+main a:hover{
     background-color: #666;
     color: #fff;
 }
