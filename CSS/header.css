@@ -1,0 +1,49 @@
+header a {
+    padding: 10px;
+    border: 1px solid #000;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-family: "OCR A Std", monospace;
+    text-transform: uppercase;
+
+}
+
+.siteNav a {
+    display: inline-block;
+    color: #444;
+    width: 110px;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    border: 1px solid #000;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.siteNav a:hover{
+    background-color: #555;
+    color: #fff;
+    border: 1px solid #000;
+}
+
+.siteNav {
+    text-align: right;
+    margin-top: -75px;
+    margin-left: 100px;
+}
+
+.steLogo{
+    
+    display: inline-block;
+    width: 100px;
+}
+
+header hr {
+  margin-top: 25px;
+}
+
+#imgHtmlFive{
+    border: none;
+    padding: 0px;
+    margin-bottom: 0px;
+}
